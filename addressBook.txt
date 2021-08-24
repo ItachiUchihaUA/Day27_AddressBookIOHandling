@@ -1,0 +1,3 @@
+ Contact [firstName=Ujjwal, lastName=Aakash, Address=b34, city=pune, state=maha, email=ujjwal@gmail.com, Phone=12345678, zip=12345] 
+ Contact [firstName=ankit, lastName=kumar, Address=asd45, city=pune, state=maha, email=ankit@gmail.com, Phone=234567678, zip=23456] 
+ Contact [firstName=tom, lastName=jerry, Address=cn, city=ny, state=hat, email=tom@gmail.com, Phone=234567890, zip=23456] 
